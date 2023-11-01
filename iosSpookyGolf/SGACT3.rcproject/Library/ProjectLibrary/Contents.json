@@ -1,0 +1,162 @@
+[
+  {
+    "libraryIdentifier" : "8ce4031c291967c7ce990afc6b425989",
+    "format" : "model",
+    "displayName" : "tree5.usdz"
+  },
+  {
+    "libraryIdentifier" : "bb59ce4d732ccc02052b6cf8d5e5f7ca",
+    "format" : "model",
+    "displayName" : "tree6.usdz"
+  },
+  {
+    "libraryIdentifier" : "68eaab6e4b6dbe7dc5ed6cc6d50ee76c",
+    "format" : "model",
+    "displayName" : "fence1.usdz"
+  },
+  {
+    "libraryIdentifier" : "8da33046ba128ffe07680475845fc8f7",
+    "format" : "model",
+    "displayName" : "tree7.usdz"
+  },
+  {
+    "libraryIdentifier" : "90957bb91de882cdec021c9ebf0f5354",
+    "format" : "model",
+    "displayName" : "fence2.usdz"
+  },
+  {
+    "libraryIdentifier" : "580d8e335ea08e6d0255f2fc25b1dc22",
+    "format" : "model",
+    "displayName" : "fence3.usdz"
+  },
+  {
+    "libraryIdentifier" : "42dfbd440ea4c783d6c1988c44d2ad49",
+    "format" : "model",
+    "displayName" : "grave1.usdz"
+  },
+  {
+    "libraryIdentifier" : "1204585a1a9d52d1fe0e1bfcf27dd1ef",
+    "format" : "model",
+    "displayName" : "grave2.usdz"
+  },
+  {
+    "libraryIdentifier" : "cb857d854fc5524828fcbe89947c2a02",
+    "format" : "model",
+    "displayName" : "grave3.usdz"
+  },
+  {
+    "libraryIdentifier" : "084db263e048a45b4c093b21a7a64d49",
+    "format" : "model",
+    "displayName" : "path1.usdz"
+  },
+  {
+    "libraryIdentifier" : "2e46dc4664ce7697eaeba2ef075701b3",
+    "format" : "model",
+    "displayName" : "path2.usdz"
+  },
+  {
+    "libraryIdentifier" : "1eaa1b2f5de3abd1687200657b6b4afa",
+    "format" : "model",
+    "displayName" : "path3.usdz"
+  },
+  {
+    "libraryIdentifier" : "ae949e4f7eff65c7bad6ff7d6ddfaede",
+    "format" : "model",
+    "displayName" : "pillar1.usdz"
+  },
+  {
+    "libraryIdentifier" : "2ca1aaca9c915b2a5217f9513b951558",
+    "format" : "model",
+    "displayName" : "arch1.usdz"
+  },
+  {
+    "libraryIdentifier" : "cd183c81a59a0e2055b64b739376475d",
+    "format" : "model",
+    "displayName" : "pillar2.usdz"
+  },
+  {
+    "libraryIdentifier" : "fbfd46ff1ea75955d830144b0cf14e41",
+    "format" : "model",
+    "displayName" : "arch2.usdz"
+  },
+  {
+    "libraryIdentifier" : "9da0c7250090ef09af7f8b4c0cfbb14a",
+    "format" : "model",
+    "displayName" : "pillar3.usdz"
+  },
+  {
+    "libraryIdentifier" : "d772ce1b88dcb5e6ad9dfad2b116a014",
+    "format" : "model",
+    "displayName" : "bench1.usdz"
+  },
+  {
+    "libraryIdentifier" : "a95ac941cf339bd3d486c7fb622d81b7",
+    "format" : "model",
+    "displayName" : "pillar4.usdz"
+  },
+  {
+    "libraryIdentifier" : "7eeeaa12d81a8a3aa3227c898af82536",
+    "format" : "model",
+    "displayName" : "bench2.usdz"
+  },
+  {
+    "libraryIdentifier" : "d9e31b0ffce2c4186edf8d3d571ab271",
+    "format" : "model",
+    "displayName" : "pumpkin1.usdz"
+  },
+  {
+    "libraryIdentifier" : "92158e76fee72bf9a9a2e3160659e5bb",
+    "format" : "model",
+    "displayName" : "bone1.usdz"
+  },
+  {
+    "libraryIdentifier" : "627693a609de28393e4ee3e7ffd20227",
+    "format" : "model",
+    "displayName" : "pumpkin2.usdz"
+  },
+  {
+    "libraryIdentifier" : "92fcdaa658fe64fe214a7b2d582cd271",
+    "format" : "model",
+    "displayName" : "candle1glb.usdz"
+  },
+  {
+    "libraryIdentifier" : "1031ee9d88041336ceb915e7adf24fc5",
+    "format" : "model",
+    "displayName" : "tree1.usdz"
+  },
+  {
+    "libraryIdentifier" : "07ba214d6285f6d20a2bfe4a7afee33a",
+    "format" : "model",
+    "displayName" : "candle2.usdz"
+  },
+  {
+    "libraryIdentifier" : "151ab25da0e8a1e02762fa8edf765f6f",
+    "format" : "model",
+    "displayName" : "tree2.usdz"
+  },
+  {
+    "libraryIdentifier" : "ab073b4a056160f849733b80d84b2b62",
+    "format" : "model",
+    "displayName" : "Coffin1.usdz"
+  },
+  {
+    "libraryIdentifier" : "6e0ab61730e449110ae7f018055a944b",
+    "format" : "model",
+    "displayName" : "tree3.usdz"
+  },
+  {
+    "libraryIdentifier" : "75d2f6c554426f6c6d3e55fa701f274c",
+    "format" : "model",
+    "displayName" : "coffin2.usdz"
+  },
+  {
+    "libraryIdentifier" : "711d9a2f4dc20d04aa6315a4bb39978c",
+    "format" : "model",
+    "displayName" : "tree4.usdz"
+  },
+  {
+    "libraryIdentifier" : "e422ce02bbed203b697e55a9c33609f1",
+    "format" : "model",
+    "displayName" : "crypt1.usdz"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "looserllama_a_simple_mini_golf_course_that_is_halloween_themed__d7d917ef-1df6-4203-a741-60e89ee63d94.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
