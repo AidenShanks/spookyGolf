@@ -4,6 +4,7 @@
 //
 // Created by Aiden Shanks on 10/16/23.
 //
+//
 
 import SwiftUI
 import RealityKit
@@ -182,7 +183,7 @@ struct ARViewContainer: UIViewRepresentable {
                     //print("Sphere was tapped!")
                     
                     guard let frame = arView.session.currentFrame else { return }
-
+ 
     
                     let column = frame.camera.transform.columns.2
                     let cameraForwardDirection = SIMD3<Float>(column.x, column.y, column.z)
